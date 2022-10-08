@@ -1,0 +1,90 @@
+1665200051362	geckodriver	INFO	Listening on 127.0.0.1:50924
+1665200054455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilew5SbXl"
+1665200057334	geckodriver	INFO	Listening on 127.0.0.1:50933
+1665200060389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileezWpJV"
+1665200061267	Marionette	INFO	Marionette enabled
+1665200061283	Marionette	INFO	Listening on port 50951
+Read port: 50951
+WebDriver BiDi listening on ws://127.0.0.1:50934
+1665200061855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileezWpJV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50934/devtools/browser/f2903cfd-a53f-40a4-865a-d63ce092898a
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/Zq6a_vQl7QB.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665200074328	Marionette	INFO	Stopped listening on port 50951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665200109230	geckodriver	INFO	Listening on 127.0.0.1:51205
+1665200112295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileKCylX3"
+1665200113135	Marionette	INFO	Marionette enabled
+1665200113146	Marionette	INFO	Listening on port 51219
+Read port: 51219
+WebDriver BiDi listening on ws://127.0.0.1:51206
+1665200113498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileKCylX3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51206/devtools/browser/606be767-2b60-4654-acb1-5421a1cadcfd
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51296
+1665200123560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile35j5SS"
+1665200124411	Marionette	INFO	Marionette enabled
+1665200124427	Marionette	INFO	Listening on port 51375
+Read port: 51375
+WebDriver BiDi listening on ws://127.0.0.1:51297
+1665200124836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile35j5SS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51297/devtools/browser/6840aafe-6833-40bb-ba40-69c6ae636c9f
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51531
+1665200205184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileNkLCcL"
+1665200205910	Marionette	INFO	Marionette enabled
+1665200205922	Marionette	INFO	Listening on port 51542
+Read port: 51542
+WebDriver BiDi listening on ws://127.0.0.1:51532
+1665200206320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileNkLCcL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51532/devtools/browser/22128f06-1a7b-4ad8-bfaa-9f2cca6d4ccb
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51613
+1665200274554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofiled9jnA4"
+1665200275317	Marionette	INFO	Marionette enabled
+1665200275328	Marionette	INFO	Listening on port 51625
+Read port: 51625
+WebDriver BiDi listening on ws://127.0.0.1:51614
+1665200275648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofiled9jnA4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51614/devtools/browser/06a069a8-133e-4d80-a715-daf978552f82
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51691
+1665200334140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilelEmVFb"
+1665200334890	Marionette	INFO	Marionette enabled
+1665200334904	Marionette	INFO	Listening on port 51702
+Read port: 51702
+WebDriver BiDi listening on ws://127.0.0.1:51692
+1665200335169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilelEmVFb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51692/devtools/browser/dfbc8e5d-d488-40e3-8c62-e90d5c8a5cd7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51786
+1665200404148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilev6efsd"
+1665200404869	Marionette	INFO	Marionette enabled
+1665200404879	Marionette	INFO	Listening on port 51798
+Read port: 51798
+WebDriver BiDi listening on ws://127.0.0.1:51787
+1665200405211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilev6efsd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51787/devtools/browser/f776c0f1-fa2b-45cd-98b7-74bb141ae283
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51869
+1665200415120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileCHibjC"
+1665200416039	Marionette	INFO	Marionette enabled
+1665200416052	Marionette	INFO	Listening on port 51950
+Read port: 51950
+WebDriver BiDi listening on ws://127.0.0.1:51870
+1665200416548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileCHibjC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51870/devtools/browser/778fb8af-6d39-4748-a0eb-c00515f043db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE

@@ -1,0 +1,9 @@
+2022-10-08 10:53:36,170: INFO: ====== WebDriver manager ======
+2022-10-08 10:53:36,941: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-08 10:53:37,799: INFO: Driver [C:\Users\Vigne\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-08 10:53:39,019: INFO: ------Pre Step------
+2022-10-08 10:53:41,022: INFO: ------test_sortLowtoHigh------
+2022-10-08 10:53:41,960: INFO: ====== WebDriver manager ======
+2022-10-08 10:53:42,755: INFO: Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-08 10:53:43,800: INFO: Driver [C:\Users\Vigne\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-08 10:53:45,199: INFO: ------Pre Step------
